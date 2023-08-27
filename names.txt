@@ -1,0 +1,6 @@
+this file is created by muskan using cmd prompt.
+hello
+hello.txt
+no
+exit
+CTRL-Z
